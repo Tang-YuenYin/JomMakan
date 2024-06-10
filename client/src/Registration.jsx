@@ -50,7 +50,7 @@ const Registration = () => {
           <div className="ml-auto">
             <Link to="/schedule" className="back-btn">
               <i className="bi bi-calendar-heart custom-icon"></i>View My
-              Workshop
+              Registration
             </Link>
           </div>
         </div>
